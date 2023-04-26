@@ -1,0 +1,26 @@
+.container {
+  width: 100%;
+}
+.avatar {
+  height: 150px;
+  width: 150px;
+  border-radius: 50px;
+}
+.row {
+  background-color: rgb(162, 184, 244);
+}
+.form-horizontal {
+  background-color: rgb(162, 184, 244);
+  border-radius: 10px;
+}
+.col-md-3 {
+  margin-top: 2px;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+.col-md-9 {
+  margin-top: 2px;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}

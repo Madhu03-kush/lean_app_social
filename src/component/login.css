@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.body {
+  height: 100%;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+.container {
+  display: grid;
+  justify-content: center;
+}
+.log-box {
+  height: 400eh;
+  width: 400ew;
+  background-color: rgb(229, 151, 231);
+  margin: 10px;
+  display: flexbox;
+}
+.five-div {
+  display: grid;
+  justify-content: center;
+  background-color: rgb(162, 184, 244);
+  padding: 30px;
+  box-sizing: border-box;
+  block-size: auto;
+}
+.input {
+  height: 50px;
+  width: 300px;
+  border-radius: 15px;
+}
+.add {
+  padding: 10;
+}
+.but-style {
+  background-color: #1d5391; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}

@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.align-item-center {
+  height: 100%;
+  width: 100%;
+}
+.img-fluid {
+  z-index: 1;
+}
+.btn {
+  z-index: 1;
+  color: white;
+}
